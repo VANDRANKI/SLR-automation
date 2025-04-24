@@ -27,3 +27,6 @@ package-lock.json
 *summary.tex
 finish-sami_key.pem
 
+# Python virtual environment
+/slrenv/
+
